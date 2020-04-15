@@ -1,4 +1,4 @@
-import { ActionCreator } from 'redux';
+// import { ActionCreator } from 'redux';
 
 // Set action "names" as constants.
 export enum ProductActionTypes {
